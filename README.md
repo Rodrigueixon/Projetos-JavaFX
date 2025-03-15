@@ -57,7 +57,9 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 ### Executando  
 1. Clone o repositório:  
    ```sh
-   git clone https://github.com/Rodrigueixon/Projetos-JavaFX.git 
+   git clone https://github.com/Rodrigueixon/Projetos-JavaFX.git
+2. Abra o projeto no VS Code ou IntelliJ
+3. Compile e execute o código
 
 ## ⭐ Gostou do Projeto?  
 Se você gostou deste projeto, por favor, considere dar uma estrela ⭐ no repositório para ajudar outros a encontrá-lo! Seu apoio é muito importante e motivador.  
