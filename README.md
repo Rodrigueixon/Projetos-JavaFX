@@ -6,7 +6,7 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 
 ## 📌 Projetos Disponíveis
 
-### 🚄 1. Trem Sem Colisão  
+### 🚄 1. Trem Com Colisão  
 **Descrição:** Simulação de dois trens que percorrem trilhos compartilhados, onde há **duas zonas críticas**. Para evitar colisões, os trens precisam de um mecanismo de controle de acesso a essas áreas.  
 
 **Funcionalidades:**  
@@ -16,7 +16,7 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 
 ---
 
-### 🚦 2. Trem Com Colisão  
+### 🚦 2. Trem Sem Colisão  
 **Descrição:** Versão aprimorada do primeiro projeto, onde são implementadas estratégias de **exclusão mútua** para evitar colisões nas zonas críticas. São usadas as seguintes técnicas:  
 - **Variável de Travamento**  
 - **Estrita Alternância**  
