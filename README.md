@@ -14,6 +14,8 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 ✅ Escolher **a direção inicial** de cada trem (4 opções)  
 ✅ **Resetar** a simulação e iniciar novamente  
 
+![Image](https://github.com/user-attachments/assets/5f63c168-0fd7-4056-bc85-d505551c0c0c)
+
 ---
 
 ### 🚦 2. Trem Sem Colisão  
@@ -27,6 +29,8 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 ✅ Escolher **a direção inicial** de cada trem (4 opções)  
 ✅ **Resetar** a simulação e iniciar novamente  
 
+![Image](https://github.com/user-attachments/assets/8551a320-9971-48a0-ad0f-d1ca9ce6d9e8)
+
 ---
 
 ### 💈 3. Barbeiro Dorminhoco  
@@ -37,6 +41,8 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 ✅ Ajustar a **frequência de chegada dos clientes**  
 ✅ **Resetar** a simulação e iniciar novamente  
 
+![Image](https://github.com/user-attachments/assets/f9797152-2b52-4e08-a9d7-d4ec24efffb2)
+
 ---
 
 ### 🚗 4. Problema do Trânsito Automatizado  
@@ -46,6 +52,8 @@ Fique à vontade para explorar o código e rodar as simulações! 😊
 ✅ Ajustar a **velocidade dos carros**  
 ✅ Exibir a **rota de cada carro**  
 ✅ **Resetar e reiniciar** a simulação  
+
+![Image](https://github.com/user-attachments/assets/ada592e3-2f74-4353-a3eb-97c5dbd80967)
 
 ---
 
